@@ -1,4 +1,4 @@
-package iloveyouboss;
+package iloveyouboss.domain;
 
 public class BooleanQuestion extends Question {
     public BooleanQuestion(int id, String text) {

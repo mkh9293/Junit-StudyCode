@@ -1,5 +1,6 @@
 package iloveyouboss;
 
+import iloveyouboss.domain.*;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;

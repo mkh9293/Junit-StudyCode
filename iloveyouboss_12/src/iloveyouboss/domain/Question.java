@@ -1,4 +1,4 @@
-package iloveyouboss;
+package iloveyouboss.domain;
 
 public abstract class Question {
     private String text;
