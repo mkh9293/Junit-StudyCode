@@ -33,6 +33,5 @@ public class StatCompilerTest {
         assertThat(responses.get("Tuition reimbursement?").get(Boolean.FALSE).get(), equalTo(1));
         assertThat(responses.get("Relocation package?").get(Boolean.TRUE).get(), equalTo(2));
         assertThat(responses.get("Relocation package?").get(Boolean.FALSE).get(), equalTo(0));
-
     }
 }
